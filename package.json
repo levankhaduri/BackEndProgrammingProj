@@ -1,0 +1,24 @@
+{
+  "name": "backendproject",
+  "version": "1.0.0",
+  "description": "Bru",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levankhaduri/BackEndProgrammingProj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levankhaduri/BackEndProgrammingProj/issues"
+  },
+  "homepage": "https://github.com/levankhaduri/BackEndProgrammingProj#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.3.1"
+  }
+}
